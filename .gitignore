@@ -1,3 +1,8 @@
+#Ignorar los Settings, estos varían entre ambientes
+AMP/settings/development.py
+AMP/wsgi.py
+AMP/manage.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
